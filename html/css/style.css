@@ -1,0 +1,16 @@
+#form {
+    width: 40%;
+    margin-top: 5vh;
+    margin-left: 30%;
+}
+
+#results {
+    width: 66%;
+    margin-top: 5vh;
+    margin-left: 17%;
+}
+
+#loader {
+    margin-left: 48.5%;
+    margin-top: 5vh;
+}
