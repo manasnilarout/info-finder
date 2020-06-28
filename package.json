@@ -1,0 +1,32 @@
+{
+  "name": "info-finder",
+  "version": "1.0.0",
+  "description": "Information finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilarout/info-finder.git"
+  },
+  "keywords": [
+    "aws",
+    "athena",
+    "s3",
+    "aws",
+    "glue"
+  ],
+  "author": "Manas Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilarout/info-finder/issues"
+  },
+  "homepage": "https://github.com/manasnilarout/info-finder#readme",
+  "dependencies": {
+    "aws-sdk": "^2.706.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
